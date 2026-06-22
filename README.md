@@ -1,2 +1,2 @@
 # ceguranssa-diguical
-é uma ceguranssa mas diguical
+é uma ceguranssa só que diguical
